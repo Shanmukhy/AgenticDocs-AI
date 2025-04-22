@@ -31,6 +31,7 @@ Given a robotic arm product page (e.g., [`myArm M750`](https://www.elephantrobot
 
 ## 📁 Project Structure
 
+
 AgenticDocs-AI-MAIN/
 
                   ├── agents.py              # Defines AI agents and their configurations
@@ -47,12 +48,15 @@ AgenticDocs-AI-MAIN/
 
 ## 📦 Installation
 
+```bash
 pip install -r requirements.txt
 
-Also make sure to:
 
-Get your GROQ_API_KEY and set it in the environment or Colab via:
+Also make sure to set your Groq API key in the environment:
 
+python
+
+import os
 os.environ["GROQ_API_KEY"] = "<your_groq_api_key>"
 
 ---
