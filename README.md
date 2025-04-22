@@ -46,7 +46,7 @@ AgenticDocs-AI-MAIN/
 
 ---
 
-## 📦 Installation
+## 📦 Installation 
 
 ```bash
 pip install -r requirements.txt
@@ -61,7 +61,7 @@ os.environ["GROQ_API_KEY"] = "<your_groq_api_key>"
 
 ---
 
-🧪 Sample Output
+## 🧪 Sample Output 
 
 Task 1: Summary Created ✅
 
