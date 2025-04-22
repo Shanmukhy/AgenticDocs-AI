@@ -60,12 +60,3 @@ import os
 os.environ["GROQ_API_KEY"] = "<your_groq_api_key>"
 
 ---
-
-## 🧪 Sample Output 
-
-Task 1: Summary Created ✅
-
-Task 2: Translated to Telugu ✅
-
-Final Output:
-<Translated Summary>
