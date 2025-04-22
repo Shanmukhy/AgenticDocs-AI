@@ -32,6 +32,7 @@ Given a robotic arm product page (e.g., [`myArm M750`](https://www.elephantrobot
 ## 📁 Project Structure
 
 AgenticDocs-AI-MAIN/
+
                   ├── agents.py              # Defines AI agents and their configurations
                   
                   ├── crew.py                # Initializes the Crew with agents and tasks
