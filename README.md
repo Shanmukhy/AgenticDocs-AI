@@ -32,11 +32,11 @@ Given a robotic arm product page (e.g., [`myArm M750`](https://www.elephantrobot
 ## 📁 Project Structure
 
 AgenticDocs-AI-MAIN/
-├── agents.py              # Defines AI agents and their configurations
-├── crew.py                # Initializes the Crew with agents and tasks
-├── tasks.py               # Contains individual task definitions
-├── requirements.txt       # List of required Python packages
-└── README.md              # Project documentation (this file)
+                  ├── agents.py              # Defines AI agents and their configurations
+                  ├── crew.py                # Initializes the Crew with agents and tasks
+                  ├── tasks.py               # Contains individual task definitions
+                  ├── requirements.txt       # List of required Python packages
+                  └── README.md              # Project documentation (this file)
 
 ---
 
@@ -55,5 +55,7 @@ os.environ["GROQ_API_KEY"] = "<your_groq_api_key>"
 ## 🧪 Sample Output
 
 Task 1: Summary Created ✅
+
 Task 2: Translated to Telugu ✅
+
 Final Output: <Translated Summary>
