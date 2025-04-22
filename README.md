@@ -32,11 +32,16 @@ Given a robotic arm product page (e.g., [`myArm M750`](https://www.elephantrobot
 ## 📁 Project Structure
 
 
-AgenticDocs-AI-MAIN/.
+AgenticDocs-AI-MAIN/
+                  |
                   ├── agents.py              # Defines AI agents and their configurations.
+                  
                   ├── crew.py                # Initializes the Crew with agents and task.
+                  
                   ├── tasks.py               # Contains individual task definitions.
-                  ├── requirements.txt       # List of required Python package.  
+                  
+                  ├── requirements.txt       # List of required Python package. 
+                  
                   └── README.md              # Project documentation (this file).
 
 ---
