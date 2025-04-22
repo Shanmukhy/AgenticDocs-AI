@@ -54,7 +54,6 @@ pip install -r requirements.txt
 
 Also make sure to set your Groq API key in the environment:
 
-```python
 import os
 os.environ["GROQ_API_KEY"] = "<your_groq_api_key>"
 
